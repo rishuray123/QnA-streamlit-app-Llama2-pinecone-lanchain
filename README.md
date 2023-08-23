@@ -1,4 +1,4 @@
-# QnA-streamlit-app-Llama2-pinecone-lanchain
+# QnA-streamlit-app-Llama2-pinecone-langchain
 
 # LLm powered applications
 
